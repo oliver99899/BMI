@@ -91,7 +91,7 @@ class MenuScreen extends StatelessWidget {
               const SizedBox(height: 15),
               _buildMenuButton(
                 context,
-                "Panduan & Standar Medis",
+                "Panduan & Saran",
                 Icons.menu_book,
                 bgBlue,
                 primaryBlue,

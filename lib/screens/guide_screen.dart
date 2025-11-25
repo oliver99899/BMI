@@ -11,7 +11,7 @@ class GuideScreen extends StatelessWidget {
 
     return Scaffold(
       backgroundColor: Colors.white, // <--- BACKGROUND PUTIH
-      appBar: AppBar(title: const Text("Panduan & Standar Medis"), backgroundColor: Colors.blue.shade100, foregroundColor: primaryBlue, surfaceTintColor: Colors.transparent),
+      appBar: AppBar(title: const Text("Panduan & Saran"), backgroundColor: Colors.blue.shade100, foregroundColor: primaryBlue, surfaceTintColor: Colors.transparent),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
         child: Column(
